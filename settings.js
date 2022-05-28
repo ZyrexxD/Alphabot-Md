@@ -8,11 +8,11 @@ global.APIs = {
 
 // Free apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'cLhcMuA2',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.zeeoneofc.xyz': 'Your Apikey',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
-global.autoread = true // auto read pesan / message
+global.autoread = false // auto read pesan / message
 //global.autorecording = true //status auto merekam ( auto record )
 //global.autoketik = false //status auto mengetik (auto typing)
 //global.available = false //status online (online)
@@ -20,7 +20,7 @@ global.autoread = true // auto read pesan / message
 // Other
 global.botname = "DenzzMulti" //namabot kalian
 global.ownername= "DenzzJB" //nama kalian
-global.myweb ="-" //bebas asal jan hapus
+global.myweb ="https://linktr.ee/deniezyt" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/DeniezYT" //bebas asal jan hapus
 global.github = "https://ZyrexxD.github.io/" //bebas
 global.email = "deniezpratama09@gmail.com" //bebas
